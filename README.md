@@ -55,7 +55,7 @@ After setting up and activating the environment, you can run the project noteboo
 
     Navigate to the project directory and open the following notebooks to explore the analysis:
     * `session1_ML.ipynb`: Contains the analysis and implementation of classical machine learning models for water quality classification.
-    * `session2_DL.ipynb`: Contains the analysis and implementation of a deep learning model for the same task.
+    * `session2_DL.ipynb`: Contains the analysis and implementation of a deep learning model.
 
 ## Recommended Development Tools
 
