@@ -47,7 +47,7 @@ After setting up and activating the environment, you can run the project noteboo
 
     Start the Jupyter server by running the following command in your terminal:
     ```bash
-    jupyter-lab
+    jupyter notebook
     ```
     This will open a new tab in your default web browser with the Jupyter file explorer.
 
@@ -55,7 +55,7 @@ After setting up and activating the environment, you can run the project noteboo
 
     Navigate to the project directory and open the following notebooks to explore the analysis:
     * `session1_ML.ipynb`: Contains the analysis and implementation of classical machine learning models for water quality classification.
-    * `session2_DL.ipynb`: Contains the analysis and implementation of a deep learning model.
+    * `session2_DL.ipynb`: Contains the analysis and implementation of a deep learning model for the same task.
 
 ## Recommended Development Tools
 
